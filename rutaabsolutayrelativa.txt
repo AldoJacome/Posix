@@ -1,0 +1,3 @@
+Ruta absoluta: se indica toda la ruta del archivo incluyendo el directorio raíz. Por ejemplo, C:\carpeta1\carpeta2\archivo1.doc
+Ruta relativa: se indica la ruta a partir de donde este en ese momento situado. No se incluye el directorio raíz. Por ejemplo, 
+si estamos en la ruta C:\carpeta1 y queremos acceder al archivo1 que esta dentro de la carpeta2, seria carpeta2\archivo1. Para ir al directorio padre, usamos dos puntos seguidos (..)
