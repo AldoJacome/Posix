@@ -1,0 +1,46 @@
+bandit lvl 0 - 1 - ls / cat readme 
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+1-2 ls -a /cat ./-   
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+2-3 ls -al /  cat spaces\ in\ this\ filename
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+3-4 ls -al /cd inhere/ /  inhere$ ls -al  / cat .hidden
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+4-5 ls -al / cat ./-file*
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+5-6 ls / cd inhere / ls -a / find -type f -size 1033c / cat./maybehere07/.file2
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+6-7 find / -size 33c -group bandit6 -user bandit7 /var/lib/dpkg/info/bandit7.password 
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+7-8cat data.txt | grep millionth
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+8-9 sort data.txt > data1.txt
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+9-10 ls -a / .bash_logout .bashrc .profile data.txt
+10-11 la -a / .bash_lougout .bashrc .profile data.txt / cat data.txt
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+11-12 cat data.txt / man tr / echo "Gur cnffjbeq vf5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh"
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+12-13 ls -a / .bash_logout .bashrc .bash profile data.txt / 
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL 
+13-14 ls / ssh -i sshkey.private -l bandit14 -p 2220 -L / cat /etc/bandit_pass/bandit14
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+14-15 telnet localhost 30000 / openssl s_client -connect localhost:30000
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+15-16 openssl s_client -ign_eof -connect localhost:30001 
+cluFn7wTiGryunymYOu4RcffSxQluehd
+16-17 nmap -p 31000-32000 -sV localhost / echo cluFn7wTiGryunymYOu4RcffSxQluehd | openssl s_client -quiet -connect/ 
+ssh -i ,/sshkey.private bandit17@localhost
+17-18 ls -a / diff password.new passwords.old 
+kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+18-19 ssh -l bandit18 bandit.labs.overthewire.org -p 2220 /ssh -l bandit18 bandit.labs.overthewire.org -p 2220 cat readme
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+19-20 ls / ./bandit20-do id / ./bandit20-do whoami / ./bandit20-do cat /etc/bandit_pass/bandit20
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+20-21 ls -a /  nc -lv 32423 < /etc/bandit_pass/bandit20 / ./suconnect 32423 
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+21-22 ls -a /etc/cron.d/ /vi /etc/cron.d/cronjob_bandit22 / ls -a / cat cronjob_bandit22 / cat /usr/bin/cronjob_bandit21.sh / 
+#!bin/bash /cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+22-23 cd/etc/cron.d  / ls -a / cat cronjob_bandit23 / cat /usr/bin/cronjob_bandit23.sh / echo i am user bandit23 \ md5sum \ cut -d
+jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
